@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>HelloJava</mainClass>
+              <mainClass>TP4Exo</mainClass>
             </manifest>
           </archive>
         </configuration>
